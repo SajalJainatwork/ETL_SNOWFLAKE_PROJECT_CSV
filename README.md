@@ -34,9 +34,7 @@ This project implements an end-to-end ETL pipeline for extracting, transforming,
  - **.gitattributes:** Optional configuration for Git handling.
 
 #### Installation
-1. Clone the repository:
-git clone https://github.com/kowshiksam7/ETL_Snowflake_Project_CSV.git
-2. Install the required dependencies:
+Install the required dependencies:
 Ensure you have Python 3.x installed, then create a virtual environment and install dependencies:
 
 ##### Create a Virtual Environment:
