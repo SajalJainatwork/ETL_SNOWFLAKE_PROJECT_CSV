@@ -110,9 +110,6 @@ Ensure you have Python 3.x installed, then create a virtual environment and inst
 
 -  Scalability: This pipeline can be easily extended or adapted for use with different datasets or databases.
 
-### Author
 
-- This project was developed by **Kowshik Samudrala**.  
-- You can reach me via email at kowshikteja7@gmail.com or connect with me on LinkedIn(www.linkedin.com/in/kowshik-s-a539b21aa)
 
 
